@@ -7,6 +7,7 @@ SHIRT_SIZES = (
         ('S', 'Small'),
         ('M', 'Medium'),
         ('L', 'Large'),
+        ('XL', 'Extra Large'),
     )
 
 
